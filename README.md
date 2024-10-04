@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sksufiyan86
-- 👀 I’m interested in ... Coding 
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...just started with html
   
   
